@@ -1,6 +1,6 @@
 monthly_income = input("enter your monthly income: ")
 monthly_expenses = input("enter your total monthly expense: ")
-monthly_savings = int(income) - int(expense)
+monthly_savings = int(monthly_income) - int(monthly_expenses)
 print(monthly_savings)
 saving =int(monthly_savings) * 12 + int((monthly_savings) * 12 * 0.05)
 print(saving)
