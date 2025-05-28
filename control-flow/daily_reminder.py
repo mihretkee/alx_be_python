@@ -15,7 +15,7 @@ if time_bound == "yes":
         Reminder += " that requires immediate attention today!"
 else:
         Reminder += " consider completing it when you have free time."
-print(Reminder)
+print("Reminder:")
 
     
 
