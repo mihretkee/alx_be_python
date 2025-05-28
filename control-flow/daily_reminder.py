@@ -1,4 +1,4 @@
-task = input("Enter the task: ")
+task = input("Enter your task: ")
 priority = input("high/medium/low: ").lower()
 time_bound = input("Is it time-bound? (yes/no): ").lower()
 reminder = ""
